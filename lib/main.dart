@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:unique/modules/video_conf/screens/video_conf.dart';
 
 void main() {
   runApp(MyApp());
@@ -41,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'Home Page',
               style: Theme.of(context).textTheme.headline4,
             ),
+            VideoConf(),
           ],
         ),
       ),

@@ -1,0 +1,7 @@
+const USER_ID = 10;
+const USER_NAME = 'Adarsh';
+const String CHANNEL_TOKEN =
+    '006283fe48d09a743879d172388515c851eIAA6orfpKZj+tl89gpETh8ZG9OVFsrulqyHJcU6ImJ6mH/5NKkkAAAAAEAALrnX4PfAtYQEAAQA88C1h';
+const String CHANNEL_NAME = 'ch1';
+const String APP_CERTIFICATE = 'f561b8bba6e64ca696fc08bd738575bc';
+const String APP_ID = '283fe48d09a743879d172388515c851e';

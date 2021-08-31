@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unique/modules/video_conf/screens/classroom_channel.dart';
+import 'package:unique/modules/video_call/screens/classroom_channel.dart';
 
 class VideoConf extends StatefulWidget {
   const VideoConf({Key? key}) : super(key: key);

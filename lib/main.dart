@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:unique/modules/video_conf/screens/video_conf.dart';
+
+import 'modules/video_call/screens/classroom.dart';
 
 void main() {
   runApp(MyApp());
